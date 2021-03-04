@@ -11,11 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Another Print statement")
+        print("master branch print")
         
         
     }
-
-
 }
 
