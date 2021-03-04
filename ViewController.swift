@@ -11,11 +11,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Another Print statement")
-        
+       
+        print("BugFix branch print")
         
     }
-
+    func bugFixFuc(){
+        print("BugFix func")
+    }
 
 }
 
